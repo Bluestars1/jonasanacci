@@ -1,6 +1,6 @@
 {
     "name":"jonasanacci",
     "description":"generates Fibonacci series",
-    "icon":"https://bluestars1.githug.io/jonasanacci/whoisthis.jpg",
+    "icon":"https://bluestars1.github.io/jonasanacci/whoisthis.jpg",
     "onclick":"https://sbm-it.github.io/fibonacci/fib.js"
 }
